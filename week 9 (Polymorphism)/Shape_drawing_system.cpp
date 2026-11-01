@@ -9,9 +9,7 @@ class Shape{
 
   }
 };
-class circle() : public Shape(){
 
-};
 //main function
 int main(){
 
